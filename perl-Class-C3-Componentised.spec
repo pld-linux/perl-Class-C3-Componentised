@@ -8,13 +8,12 @@
 Summary:	Class::C3::Componentised - Load mix-ins or components to your C3-based class
 Summary(pl.UTF-8):	Class::C3::Componentised - wczytywanie komponentów do klas opartych na C3
 Name:		perl-Class-C3-Componentised
-Version:	1.0005
+Version:	1.0006
 Release:	1
-# same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Class/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	1c843ffd2737c6db77edcc6b666cfc48
+# Source0-md5:	daea1eb95cdeda8752b472e5fe6a4c86
 URL:		http://search.cpan.org/dist/Class-C3-Componentised/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
