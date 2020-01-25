@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Class
 %define	pnam	C3-Componentised
 Summary:	Class::C3::Componentised - Load mix-ins or components to your C3-based class
